@@ -37,7 +37,7 @@ export default function App() {
         )}
         <ul>
           <li>
-            <strong>Product feature</strong>. Some detail about your feature and
+            <strong>Product featur</strong>. Some detail about your feature and
             its benefit to your customer.
           </li>
           <li>
